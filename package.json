@@ -7,6 +7,9 @@
     "syntax",
     "theme"
   ],
+  "publishConfig": [
+  "registry": "https://github.com/oatnoodles/minima-cream-syntax.git"
+  ],
   "repository": "https://github.com/oatnoodles/minima-cream-syntax",
   "license": "MIT",
   "engines": {
