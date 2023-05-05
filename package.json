@@ -1,11 +1,25 @@
 {
   "name": "minima-cream-syntax",
-  "version": "1.0.0",
-  "description": "an off-white, muted pastel syntax theme for [pulsar editor](https://pulsar-edit.dev/).",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  "theme": "syntax",
+  "version": "0.0.1",
+  "author": "lee seymour lien (https://oatnoodles.cafe)",
+  "description": "an off-white, muted pastel syntax theme for pulsar editor.",
+
+  "url" : "https://github.com/oatnoodles/minima-cream-syntax/issues",
+  "email" : "seymour@oatnoodles.cafe",
+
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+
+  "publishConfig": [
+  "@oatnoodles:registry": "https://npm.pkg.github.com"
+  ],
+
+  "repository": "https://github.com/oatnoodles/minima-cream-syntax.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
