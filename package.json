@@ -2,14 +2,21 @@
   "name": "minima-cream-syntax",
   "theme": "syntax",
   "version": "0.0.1",
-  "description": "An off-white, muted pastel syntax theme for pulsar editor.",
+  "author": "lee seymour lien (https://oatnoodles.cafe)",
+  "description": "an off-white, muted pastel syntax theme for pulsar editor.",
+
+  "url" : "https://github.com/oatnoodles/minima-cream-syntax/issues",
+  "email" : "seymour@oatnoodles.cafe",
+
   "keywords": [
     "syntax",
     "theme"
   ],
+
   "publishConfig": [
   "registry": "https://github.com/oatnoodles/minima-cream-syntax.git"
   ],
+
   "repository": "https://github.com/oatnoodles/minima-cream-syntax",
   "license": "MIT",
   "engines": {
