@@ -19,7 +19,7 @@
   ],
 
   "publishConfig": [
-  "registry": "https://npm.pkg.github.com"
+  "@oatnoodles:registry": "https://npm.pkg.github.com"
   ],
 
   "repository": "https://github.com/oatnoodles/minima-cream-syntax.git",
