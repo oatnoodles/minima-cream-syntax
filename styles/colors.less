@@ -1,0 +1,58 @@
+
+// These colors are specific to the theme. Do not use in a package!
+
+// Base colors
+@list-color: #e69975;
+@cyan: #81a2be;
+@blue: #9894bb;
+@purple: #b294bb;
+@green: #93a885;
+@red: #c9847b;
+@orange: #e69975;
+@light-orange: #edc179;
+
+@very-light-gray: #c4bdb3;
+@light-gray: #a69f94;
+@gray: #6b665e;
+@dark-gray: #3d3a35;
+@very-dark-gray: #262523;
+
+
+// Text colors
+@comment-ink: darken(#c4bdb3, 5%);
+@invisible-ink: #f8f6f1;
+@very-light-ink: #a69f94;
+@light-ink: #6b665e;
+@ink: #3d3a35;
+@dark-ink: #262523;
+
+@heading-ink: @dark-ink;
+@quote-color: fade(rgb(126, 81, 33),77%);
+@quote-support-color: @very-light-ink;
+
+@citation-symbol-color: rgba(169, 86, 31, 0.43);
+@citation-name-color:   rgb(170, 92, 8);
+
+@emphasize-color: spin(saturate(@light-ink, 25%), -7);
+@emphasize-quote-color: spin(saturate(@quote-color, 40%), -10);
+
+@bold-color: darken(@emphasize-color, 10%);
+@bold-quote-color: @quote-color;
+
+@paperwhite: rgb(248, 246, 241);
+@text-selection-color: #f4f1e9;
+
+@cursor-color: rgb(30, 30, 8);
+@cursor-line-color: fade(@text-selection-color, 20%);
+
+
+// gutter colors
+@heftstreifen: rgb(248, 246, 241);
+@heftstreifen-selected: darken(@heftstreifen, 12%);
+
+
+// git colors
+@git-removed: @red;
+@git-added: @blue;
+@git-modified: @green;
+@git-renamed: @light-orange;

@@ -1,0 +1,15 @@
+{
+  "name": "minima-cream-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "An off-white, muted pastel theme.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/oatnoodles/minima-cream-syntax",
+  "license": "MIT",
+  "engines": {
+    "pulsar": ">=1.0.0 <2.0.0"
+  }
+}
