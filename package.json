@@ -8,6 +8,8 @@
   "url" : "https://github.com/oatnoodles/minima-cream-syntax/issues",
   "email" : "seymour@oatnoodles.cafe",
 
+  "_from": "https://web.pulsar-edit.dev/packages/minima-cream-syntax",
+
   "keywords": [
     "syntax",
     "theme"
